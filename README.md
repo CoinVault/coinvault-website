@@ -1,4 +1,6 @@
-# coinvault-website
+# CoinVault website
+
+Repository for the official website of CoinVault.
 
 # Credits
 
