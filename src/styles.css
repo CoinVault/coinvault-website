@@ -156,6 +156,11 @@ footer {
     text-align: center;
 }
 
+.symbol-download-preview {
+    width: 128px;
+    height: 128px;
+}
+
 .centered {
     text-align: center;
 }
