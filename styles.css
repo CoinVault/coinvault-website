@@ -156,9 +156,20 @@ footer {
     text-align: center;
 }
 
+.simplex-widget {
+    background-color: white;
+    color: black;
+    padding: 1.6em;
+    min-height: 400px;
+}
+
 .symbol-download-preview {
     width: 128px;
     height: 128px;
+}
+
+.widget-logo {
+    text-align: center;
 }
 
 .centered {
