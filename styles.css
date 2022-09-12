@@ -148,6 +148,11 @@ footer,
     padding: 2em 0.5em;
 }
 
+.coinvault-logo-purchase {
+    padding: 2em 0.5em;
+    max-width: 400px;
+}
+
 .container,
 footer {
     max-width: 900px;
