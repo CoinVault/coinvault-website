@@ -148,6 +148,10 @@ footer,
     padding: 2em 0.5em;
 }
 
+.purchase-logo {
+    max-width: 96px;
+}
+
 .coinvault-logo-purchase {
     padding: 2em 0.5em;
     max-width: 400px;
@@ -183,6 +187,8 @@ footer {
     flex-direction: row;
     justify-content: center;
     gap: 2em;
+    align-items: center;
+    margin-bottom: 1em;
 }
 
 .centered {
@@ -337,6 +343,7 @@ h3 {
 
 .purchase {
     font-size: 3em;
+    padding: 0;
 }
 
 @media screen and (max-width: 1200px) {
