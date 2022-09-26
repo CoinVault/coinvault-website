@@ -58,15 +58,11 @@
       crossorigin="anonymous"
     />
 
-    <script>
-      window.simplexAsyncFunction = function () {
-        Simplex.init({ public_key: "pk_test_5f3bb0e6-9e14-4d56-aa73-6a0d6f2f6487" });
-      };
-    </script>
-    <script
-      src="https://cdn.test-simplexcc.com/sdk/v1/js/sdk.js"
-      async
-    ></script>
+    <script> window.simplexAsyncFunction = function () {
+      Simplex.init({public_key: 'pk_live_647d5c18-17bd-46a3-8e00-586cbfd36769'})
+     };
+   </script>
+   <script src="https://cdn.simplex.com/sdk/v1/js/sdk.js" async></script>
   </head>
 
   <body>
@@ -79,12 +75,9 @@
       <form id="simplex-form">
         <div id="checkout-element"></div>
       </form>
-      <script
-        src="https://iframe.sandbox.test-simplexcc.com/form-sdk.js"
-        type="text/javascript"
-      ></script>
+      <script src='https://iframe.simplex-affiliates.com/form-sdk.js' type="text/javascript"></script>
       <script>
-        window.simplex.createForm();
+         window.simplex.createForm();
       </script>
     </div>
 
