@@ -139,6 +139,17 @@ a:hover {
     color: white;
 }
 
+.partners {
+    /* margin-left: auto;
+    margin-right: auto; */
+    text-align: center;
+}
+
+.partners img {
+ width: 80%;
+ max-width: 400px;
+}
+
 section,
 footer,
 .content {
